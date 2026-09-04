@@ -20,11 +20,11 @@ Sebagai mahasiswa Pengembangan Masyarakat Islam dengan latar belakang rekayasa w
 * 👤 **Nama Lengkap:** Muhammad Nugrahatama Bagus Budiman (Bagus Budiman)
 * 🎓 **Pendidikan:** Prodi Pengembangan Masyarakat Islam, Fakultas Dakwah dan Komunikasi, UIN Sunan Kalijaga Yogyakarta
 * 🦅 **Organisasi:** Himpunan Mahasiswa Islam (HMI)
-  * **Sekretaris Bidang KPP** HMI Komfakda UIN Sunan Kalijaga (Periode 2023–2024)
+  * **Pengurus** HMI Komfakda UIN Sunan Kalijaga (Periode 2023–2024)
   * **Redaktur Pelaksana** LAPMI Sinergi HMI Cab. Yogyakarta (Periode 2025–2026)
   * **Webmaster** `sinergianews.id` (Periode 2025–2026)
-* 🛠️ **Freelance:** Teknisi Hardware & Perbaikan Laptop/PC
-* 💡 **Keahlian Spesifik:** Webmastering, Custom Theme Development, SEO Optimization, & Computational Social Science
+* 🛠️ **Freelance:** Perbaikan Laptop/PC
+* 💡 **Keahlian Spesifik:** Webmastering, Custom Theme Development, SEO Optimization, 
 * 📸 **Instagram:** [@budiman.bagus00](https://instagram.com/budiman.bagus00)
 
 ---
