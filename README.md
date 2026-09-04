@@ -2,7 +2,7 @@
 
 # 👋 Halo, Saya Muhammad Nugrahatama Bagus Budiman!
 
-🎓 **Pengembangan Masyarakat Islam — UIN Sunan Kalijaga** | 📰 **Redaktur Pelaksana & Webmaster LAPMI** | 💻 **Web Developer & IT Specialist**
+🎓 **Pengembangan Masyarakat Islam — UIN Sunan Kalijaga** | 📰 **Redaktur Pelaksana & Webmaster LAPMI SINERGI** | 💻 **Web Developer & IT Specialist**
 
 ---
 
@@ -10,7 +10,8 @@
 * 👤 **Nama Lengkap:** Muhammad Nugrahatama Bagus Budiman (Bagus Budiman)
 * 🎓 **Pendidikan:** Prodi Pengembangan Masyarakat Islam, Fakultas Dakwah dan Komunikasi, UIN Sunan Kalijaga Yogyakarta
 * 🦅 **Organisasi:** Himpunan Mahasiswa Islam (HMI)
-  * **Redaktur Pelaksana** LAPMI Sinergi (Periode 2025–2026)
+  * **Sekretaris Bidang KPP** HMI Komfakda UIN Sunan Kalijaga (Periode 2023–2024)
+  * **Redaktur Pelaksana** LAPMI Sinergi HMI Cab. Yogyakarta (Periode 2025–2026)
   * **Webmaster** `sinergianews.id` (Periode 2025–2026)
 * 🛠️ **Freelance & Keahlian:** Webmaster, Custom Theme Developer, serta Teknisi Hardware Laptop & Komputer
 * 📸 **Instagram:** [@budiman.bagus00](https://instagram.com/budiman.bagus00)
@@ -20,7 +21,7 @@
 ## 🚀 Project Utama & Peran
 
 ### 📰 [Sinergia News](https://sinergianews.id)
-> Portal berita dan media digital independen LAPMI HMI Cabang Yogyakarta.
+> Portal berita dan media digital independen LAPMI SINERGI HMI Cabang Yogyakarta.
 * **Peran:** Webmaster & Redaktur Pelaksana (Periode 2025–2026)
 * **Tautan:** [sinergianews.id](https://sinergianews.id)
 
