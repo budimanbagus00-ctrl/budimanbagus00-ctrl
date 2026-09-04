@@ -73,4 +73,3 @@
 * 🚀 *Upgrade* performa, instalasi sistem operasi, dan pemeliharaan perangkat lunak.
 * 💻 Konsultasi rakitan PC dan kompatibilitas perangkat keras.
 
--
