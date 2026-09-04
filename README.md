@@ -14,8 +14,8 @@
   * **Pengurus** HMI Komfakda UIN Sunan Kalijaga (Periode 2023–2024)
   * **Redaktur Pelaksana** LAPMI Sinergi HMI Cab. Yogyakarta (Periode 2025–2026)
   * **Webmaster** `sinergianews.id` (Periode 2025–2026)
-* 🛠️ **Freelance:** Perbaikan Laptop/PC & Windows Systems Management
-* 💡 **Keahlian Spesifik:** Webmastering (WordPress & Blogger), Custom Theme Development, SEO Optimization, Windows Systems Administration
+* 🛠️ **Freelance:** Perbaikan Laptop/PC & Windows OS Specialist
+* 💡 **Keahlian Utama:** Windows OS Optimization, Systems Troubleshooting, Webmastering (WordPress & Blogger), Basic SEO & Web Tools
 * 📸 **Instagram:** [@budiman.bagus00](https://instagram.com/budiman.bagus00)
 
 ---
@@ -36,6 +36,16 @@
 
 ## 🛠️ Keahlian & Tech Stack
 
+**Systems & Windows OS Administration (Core Expertise):**
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows_OS-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux_Learning-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+* 🪟 **Windows Optimization & Systems Mastery:** Terbiasa melakukan *deep troubleshooting*, optimasi performa OS Windows, manajemen *services*, pemeliharaan *registry*, konfigurasi *software*, serta penggunaan *Windows Administrator Tools* (PowerShell, Event Viewer, MMC, Task Manager).
+* 🔧 **Hardware Maintenance & Tuning:** Pengalaman *freelance* perbaikan laptop/PC, perakitan, penanganan konflik perangkat keras, dan *upgrade* performa sistem secara keseluruhan.
+* 🐧 **Linux Environment (Newbie / Learning):** Masih di tahap awal eksplorasi *command line* (CLI), navigasi direktori, dan fondasi dasar pengoperasian server berbasis Linux.
+
 **Web Development & CMS:**
 <p align="left">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
@@ -46,30 +56,12 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-**Systems & Administration:**
+**Basic SEO & Web Tools (Basic / Tools Level):**
 <p align="left">
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux_Learning-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-* 🪟 **Windows Administration:** Paham penggunaan *Windows Administrator Tools*, manajemen *software*, pemeliharaan registry, optimasi performa OS, serta pemecahan masalah (*troubleshooting*) tingkat sistem.
-* 🐧 **Linux Environment:** Masih tahap awal (*beginner/newbie*), sedang aktif eksplorasi perintah dasar CLI, manajemen direktori, dan fondasi server berbasis Linux.
-
-**SEO & Digital Marketing:**
-<p align="left">
-  <img src="https://img.shields.io/badge/SEO_Optimization-34A853?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SEO_Tools-34A853?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
   <img src="https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Digital_Marketing-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
 </p>
 
-* 📈 **Technical SEO:** Optimisasi struktur HTML, sitemap, `robots.txt`, schema markup, serta kecepatan akses (*Core Web Vitals*).
-* 🔍 **On-Page & Keyword Strategy:** Riset kata kunci, penataan arsitektur konten, dan optimisasi metadata/Open Graph untuk visibilitas mesin pencari.
-* 📊 **Web Analytics & Tracking:** Audit lalu lintas web, pemantauan indeks, serta analisis perilaku pengguna menggunakan Google Analytics & Google Search Console.
-* 📣 **Content Strategy:** Penyusunan dan distribusi strategi konten digital untuk media independen dan portal berita.
-
-**Hardware & Maintenance (Freelance Services):**
-* 🔧 *Troubleshooting* hardware PC/laptop dan perbaikan komponen.
-* 🚀 *Upgrade* performa, instalasi sistem operasi, dan pemeliharaan perangkat lunak.
-* 💻 Konsultasi rakitan PC dan kompatibilitas perangkat keras.
-
+* 📊 **Webmasters & Analytics Tools:** Paham penggunaan *Google Search Console* dan *Google Analytics* untuk memantau performa lalu lintas web, status indeks, dan metrik dasar pengunjung.
+* 🔍 **Basic Technical & Content SEO:** Pemahaman praktis terkait konfigurasi `sitemap`, `robots.txt`, pemasangan meta tag/Open Graph, serta optimasi dasar struktur konten di WordPress dan Blogger.
