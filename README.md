@@ -2,7 +2,16 @@
 
 # 👋 Halo, Saya Muhammad Nugrahatama Bagus Budiman!
 
+> 💡 **Menjembatani Ilmu Sosial & Teknologi** | Mhs. Pengembangan Masyarakat Islam UIN Suka | Webmaster & Developer | **Aspiring Computational Social Scientist 🚀**
+
 🎓 **Pengembangan Masyarakat Islam — UIN Sunan Kalijaga** | 📰 **Redaktur Pelaksana & Webmaster LAPMI SINERGI** | 💻 **Web Developer & IT Specialist**
+
+---
+
+## 🔬 Visi & Fokus: Computational Social Science (CSS)
+> *"Memahami dinamika dan perilaku masyarakat era digital bukan lagi sekadar tebak-tebakan, melainkan lewat analisis data, pola jaringan, dan presisi komputasi."*
+
+Sebagai mahasiswa Pengembangan Masyarakat Islam dengan latar belakang rekayasa web dan teknisi *hardware*, saya memfokuskan perjalanan akademik dan eksekusi teknis saya untuk menjembatani **teori ilmu sosial** dengan **pemodelan komputasi (CSS)**.
 
 ---
 
