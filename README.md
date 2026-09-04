@@ -20,7 +20,7 @@ Sebagai mahasiswa Pengembangan Masyarakat Islam dengan latar belakang rekayasa w
   * **Sekretaris Bidang KPP** HMI Komfakda UIN Sunan Kalijaga (Periode 2023–2024)
   * **Redaktur Pelaksana** LAPMI Sinergi HMI Cab. Yogyakarta (Periode 2025–2026)
   * **Webmaster** `sinergianews.id` (Periode 2025–2026)
-* 🛠️ **Freelance & Keahlian:** Webmaster, Custom Theme Developer, serta Teknisi Hardware Laptop & Komputer
+* 🛠️ **Freelance & Keahlian:** Webmaster, Custom Theme Developer, SEO & Digital Marketer, serta Teknisi Hardware Laptop & Komputer
 * 📸 **Instagram:** [@budiman.bagus00](https://instagram.com/budiman.bagus00)
 
 ---
@@ -49,6 +49,19 @@ Sebagai mahasiswa Pengembangan Masyarakat Islam dengan latar belakang rekayasa w
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
+**SEO & Digital Marketing:**
+<p align="left">
+  <img src="https://img.shields.io/badge/SEO_Optimization-34A853?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Digital_Marketing-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
+</p>
+
+* 📈 **Technical SEO:** Optimisasi struktur HTML, sitemap, `robots.txt`, schema markup, serta kecepatan akses (*Core Web Vitals*) agar situs terindeks optimal.
+* 🔍 **On-Page & Keyword Strategy:** Riset kata kunci, penataan arsitektur konten, dan optimisasi metadata/Open Graph untuk visibilitas mesin pencari.
+* 📊 **Web Analytics & Tracking:** Audit lalu lintas web, pemantauan indeks, serta analisis perilaku pengguna menggunakan Google Analytics & Google Search Console.
+* 📣 **Content Marketing Strategy:** Penyusunan dan distribusi strategi konten digital untuk media independen dan portal berita.
 
 **Hardware & Maintenance:**
 * 🔧 *Troubleshooting* hardware PC/laptop dan perbaikan komponen
