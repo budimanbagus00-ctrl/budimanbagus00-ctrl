@@ -20,7 +20,8 @@ Sebagai mahasiswa Pengembangan Masyarakat Islam dengan latar belakang rekayasa w
   * **Sekretaris Bidang KPP** HMI Komfakda UIN Sunan Kalijaga (Periode 2023–2024)
   * **Redaktur Pelaksana** LAPMI Sinergi HMI Cab. Yogyakarta (Periode 2025–2026)
   * **Webmaster** `sinergianews.id` (Periode 2025–2026)
-* 🛠️ **Freelance & Keahlian:** Webmaster, Custom Theme Developer, SEO & Digital Marketer, serta Teknisi Hardware Laptop & Komputer
+* 🛠️ **Freelance:** Teknisi Hardware & Perbaikan Laptop/PC
+* 💡 **Keahlian Spesifik:** Webmastering, Custom Theme Development, SEO Optimization, & Computational Social Science
 * 📸 **Instagram:** [@budiman.bagus00](https://instagram.com/budiman.bagus00)
 
 ---
@@ -58,23 +59,15 @@ Sebagai mahasiswa Pengembangan Masyarakat Islam dengan latar belakang rekayasa w
   <img src="https://img.shields.io/badge/Digital_Marketing-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
 </p>
 
-* 📈 **Technical SEO:** Optimisasi struktur HTML, sitemap, `robots.txt`, schema markup, serta kecepatan akses (*Core Web Vitals*) agar situs terindeks optimal.
+* 📈 **Technical SEO:** Optimisasi struktur HTML, sitemap, `robots.txt`, schema markup, serta kecepatan akses (*Core Web Vitals*).
 * 🔍 **On-Page & Keyword Strategy:** Riset kata kunci, penataan arsitektur konten, dan optimisasi metadata/Open Graph untuk visibilitas mesin pencari.
 * 📊 **Web Analytics & Tracking:** Audit lalu lintas web, pemantauan indeks, serta analisis perilaku pengguna menggunakan Google Analytics & Google Search Console.
-* 📣 **Content Marketing Strategy:** Penyusunan dan distribusi strategi konten digital untuk media independen dan portal berita.
+* 📣 **Content Strategy:** Penyusunan dan distribusi strategi konten digital untuk media independen dan portal berita.
 
-**Hardware & Maintenance:**
+**Hardware & Maintenance (Freelance Services):**
 * 🔧 *Troubleshooting* hardware PC/laptop dan perbaikan komponen
-* 🚀 *Upgrade* performa, instalasi sistem operasi, dan pemeliharaan lunak
+* 🚀 *Upgrade* performa, instalasi sistem operasi, dan pemeliharaan perangkat lunak
 * 💻 Konsultasi rakitan PC dan kompatibilitas perangkat keras
-
----
-
-## 📊 Statistik GitHub
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=budimanbagus00-ctrl&show_icons=true&theme=dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=budimanbagus00-ctrl&layout=compact&theme=dark&hide_border=true" />
-</p>
 
 ---
 
