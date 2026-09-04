@@ -15,7 +15,7 @@
   * **Redaktur Pelaksana** LAPMI Sinergi HMI Cab. Yogyakarta (Periode 2025–2026)
   * **Webmaster** `sinergianews.id` (Periode 2025–2026)
 * 🛠️ **Freelance:** Perbaikan Laptop/PC & Windows OS Specialist
-* 💡 **Keahlian Utama:** Windows OS Optimization, Systems Troubleshooting, Webmastering (WordPress & Blogger), Basic SEO & Web Tools
+* 💡 **Keahlian Utama:** Windows OS Optimization, Systems Troubleshooting, Webmastering (WordPress & Blogger), CSS & Data Exploration
 * 📸 **Instagram:** [@budiman.bagus00](https://instagram.com/budiman.bagus00)
 
 ---
@@ -36,32 +36,35 @@
 
 ## 🛠️ Keahlian & Tech Stack
 
-**Systems & Windows OS Administration (Core Expertise):**
+**CSS & Data Exploration (In Development):**
 <p align="left">
-  <img src="https://img.shields.io/badge/Windows_OS-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux_Learning-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-* 🪟 **Windows Optimization & Systems Mastery:** Terbiasa melakukan *deep troubleshooting*, optimasi performa OS Windows, manajemen *services*, pemeliharaan *registry*, konfigurasi *software*, serta penggunaan *Windows Administrator Tools* (PowerShell, Event Viewer, MMC, Task Manager).
-* 🔧 **Hardware Maintenance & Tuning:** Pengalaman *freelance* perbaikan laptop/PC, perakitan, penanganan konflik perangkat keras, dan *upgrade* performa sistem secara keseluruhan.
-* 🐧 **Linux Environment (Newbie / Learning):** Masih di tahap awal eksplorasi *command line* (CLI), navigasi direktori, dan fondasi dasar pengoperasian server berbasis Linux.
+* 🐍 **Data & Programming:** Python (Basic syntax, Pandas – learning process), HTML/CSS, XML.
+* 📊 **Social Research Focus:** Web Scraping, Digital Media Analysis, dan Social Network Analysis (SNA).
 
-**Web Development & CMS:**
+**Systems & Windows OS Administration:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows_OS-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux_Basic-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+* 🪟 **Windows Optimization & Systems Mastery:** Deep troubleshooting, optimasi performa OS, manajemen services, pemeliharaan registry, serta konfigurasi sistem via PowerShell, Event Viewer, dan MMC.
+* 🔧 **Hardware Maintenance & Diagnostics:** Pengalaman pemeliharaan perangkat keras, perakitan sistem, dan upgrade performa PC/laptop.
+* 🐧 **Linux Environment (Basic):** Eksplorasi dasar command line (CLI), navigasi direktori, dan pengelolaan server berbasis Linux.
+
+**Webmastering & Web Tools:**
 <p align="left">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blogger_XML-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
-**Basic SEO & Web Tools (Basic / Tools Level):**
-<p align="left">
-  <img src="https://img.shields.io/badge/SEO_Tools-34A853?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
   <img src="https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
-* 📊 **Webmasters & Analytics Tools:** Paham penggunaan *Google Search Console* dan *Google Analytics* untuk memantau performa lalu lintas web, status indeks, dan metrik dasar pengunjung.
-* 🔍 **Basic Technical & Content SEO:** Pemahaman praktis terkait konfigurasi `sitemap`, `robots.txt`, pemasangan meta tag/Open Graph, serta optimasi dasar struktur konten di WordPress dan Blogger.
+* 🌐 **CMS & Publishing:** WordPress Administration, Custom XML Blogger Theme Development.
+* 📈 **Webmasters & Analytics:** Google Search Console dan Google Analytics untuk pemantauan traffic, status indeks, dan metrik pengunjung.
+* 🔍 **Technical SEO:** Konfigurasi sitemap, robots.txt, meta tag/Open Graph, dan optimasi struktur konten.
