@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050515,50:1a0b2e,100:4c1d95&height=200&section=header&text=Bagus%20Budiman&desc=Muhammad%20Nugrahatama%20Bagus%20Budiman%20%7C%20Computational%20Social%20Science&descSize=15&fontSize=40&animation=fadeIn" width="100%"/>
-
-# 👋 Halo, Saya Muhammad Nugrahatama Bagus Budiman!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00875a&height=180&section=header&text=Bagus%20Budiman&fontSize=40&animation=fadeIn" width="100%"/>
 
 # 👋 Halo, Saya Muhammad Nugrahatama Bagus Budiman!
 
