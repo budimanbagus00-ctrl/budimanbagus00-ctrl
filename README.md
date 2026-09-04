@@ -75,5 +75,5 @@ Sebagai mahasiswa Pengembangan Masyarakat Islam dengan latar belakang rekayasa w
 ---
 
 <p align="center">
-  📲 **Kontak & Media Sosial:** <a href="https://instagram.com/budiman.bagus00" target="_blank">Instagram (@budiman.bagus00)</a>
+  📲 Kontak & Media Sosial: <a href="https://instagram.com/budiman.bagus00" target="_blank">Instagram (@budiman.bagus00)</a>
 </p>
